@@ -1,0 +1,4 @@
+This File is a to do list program that I have been working on in my spare time. So far it allows the user to create, edit and finish tasks as well as create lists for the tasks to be added to. The home page shows the user their overdue tasks and has a side bar which allows the user to navigate through the lists they have to see their tasks. 
+
+
+I have not finished this program yet as I intend on adding more interesting features which are partially added already including account management with salting and hashing passwords. I would like to set up reminders for tasks that have a completion date and make a sort of hierarchy so a user could be a parent that assigns tasks or lists to their children and act as a sort of admin to that list. 
